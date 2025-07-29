@@ -117,7 +117,7 @@
     <a href="precaution.php">Precautions</a>
 </li>
 <li>
-    <a href="a.php">Appointment</a>
+    <a href="appointment.php">Appointment</a>
 </li>
 <li>
     <a href="contact.php">Contact</a>
