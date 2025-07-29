@@ -666,7 +666,7 @@
 
 <!-- Contact Section -->
 <section class="appoinment-section section">
-  <div class="container">
+  <div class="container" id="contact">
     <div class="row">
       
       <!-- FAQ Column -->
