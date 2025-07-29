@@ -1,3 +1,4 @@
+<?php include "header.php" ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -269,6 +270,7 @@ Cover mouth and nose when sneezing or coughing.Avoid sharing personal items.</p>
     </div>
   </div>
 </section>
+<?php include "footer.php" ?>
 
 </body>
 </html>
