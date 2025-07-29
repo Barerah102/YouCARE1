@@ -120,7 +120,7 @@
     <a href="appointment.php">Appointment</a>
 </li>
 <li>
-    <a href="contact.php">Contact</a>
+    <a href="index.php#contact">Contact</a>
 </li>
 <li>
     <a href="service.php">Services</a>
