@@ -264,7 +264,7 @@ h1, h2, h3, h4, h5, h6 {
 
   
 <!--Page Title-->
-<section class="page-title text-center" style="background-image:url(image4.jpg);">
+<section class="page-title text-center" style="background-image:url(images/image4.jpg);">
     <div class="container">
         <div class="title-text">
             <h1>service</h1>
@@ -393,7 +393,7 @@ h1, h2, h3, h4, h5, h6 {
       
       <!-- Left: Image -->
       <div class="col-md-6">
-        <img src="image3.jpg" alt="Pulmonary Service" class="img-fluid service-image">
+        <img src="images/image3.jpg" alt="Pulmonary Service" class="img-fluid service-image">
       </div>
 
       <!-- Right: Text -->
